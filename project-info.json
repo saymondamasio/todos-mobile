@@ -1,0 +1,28 @@
+{
+  "name": "TODO",
+  "description": "Um app simples feito usando React Native para gerenciamento de suas tarefas diárias, com a possibilidade de adicionar, editar remover e marcar como concluído.",
+  "short_description": "Gerencie suas tarefas do dia nesse incrível app",
+  "techs": [
+    {
+      "name": "React.js",
+      "url": "https://reactjs.org/"
+    },
+    {
+      "name": "React Native",
+      "url": "https://reactnative.dev/"
+    },
+    {
+      "name": "Vector Icons",
+      "url": "https://oblador.github.io/react-native-vector-icons/"
+    }
+  ],
+  "videos": [
+    "https://raw.githubusercontent.com/saymondamasio/todo-mobile/main/.github/demonstration.mp4"
+  ],
+  "images": [
+    "https://raw.githubusercontent.com/saymondamasio/todo-mobile/main/.github/screenshot-1.png",
+    "https://raw.githubusercontent.com/saymondamasio/todo-mobile/main/.github/screenshot-2.png",
+    "https://raw.githubusercontent.com/saymondamasio/todo-mobile/main/.github/screenshot-3.png",
+    "https://raw.githubusercontent.com/saymondamasio/todo-mobile/main/.github/screenshot-4.png"
+  ]
+}
